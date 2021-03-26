@@ -5,7 +5,7 @@ from selenium.webdriver.support.select import Select
 import os.path
 from framework.logger import Logger
 
-# 创建一个日志实例
+# 创建一个日志实例-demo
 logger = Logger(logger="BasePage").getlog()
 
 
